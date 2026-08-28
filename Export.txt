@@ -11,4 +11,5 @@ Các loại LCs:
     Việt Nam mở SBLC theo yêu cầu của Supplier -> Đến hạn thanh toán nếu Việt Nam mà không trả được tiền cho Supplier thì Supplier sẽ yêu cầu NH của VN thanh toán theo SBLC
     =>> Phải có đủ tiền để thanh toán 
 
-    adbc
+   dsadsadas
+   dsadsadas
