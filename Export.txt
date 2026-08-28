@@ -10,3 +10,5 @@ Các loại LCs:
     Buyer mở LC -> Đến han thanh toán nếu buyer không trả được tiền thì phía Vn sẽ yêu cầu NH của buyer thanh toán tiền dựa trên SBLC
     Việt Nam mở SBLC theo yêu cầu của Supplier -> Đến hạn thanh toán nếu Việt Nam mà không trả được tiền cho Supplier thì Supplier sẽ yêu cầu NH của VN thanh toán theo SBLC
     =>> Phải có đủ tiền để thanh toán 
+
+    adbc
