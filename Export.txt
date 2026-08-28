@@ -1,0 +1,12 @@
+CIF = Giá FOB  + Cước biển (Ocean Freight) + Bảo hiểm
+Chi phí Transhipment
+
+Các loại LCs: 
+  Back to back LC ( LC Giáp lưng): 
+    Buyer Mở LC -> NH Việt Nam mở LC thứ 2 dựa trên LC của Buyer để thanh toán cho Supplier
+    => Không cần full tiền. Có thể phải đặt cọc dựa trên giá trị của LC và/ hoặc hạn mức tín 
+
+  SBLC ( LC Dự phòng)
+    Buyer mở LC -> Đến han thanh toán nếu buyer không trả được tiền thì phía Vn sẽ yêu cầu NH của buyer thanh toán tiền dựa trên SBLC
+    Việt Nam mở SBLC theo yêu cầu của Supplier -> Đến hạn thanh toán nếu Việt Nam mà không trả được tiền cho Supplier thì Supplier sẽ yêu cầu NH của VN thanh toán theo SBLC
+    =>> Phải có đủ tiền để thanh toán 
