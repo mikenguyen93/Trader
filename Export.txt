@@ -12,3 +12,15 @@ Các loại LCs:
     =>> Phải có đủ tiền để thanh toán 
 
 
+
+    Bank Compliance: 
+    Nên quan tâm đến những vấn đề sau:
+      1. Issuing Bank là ngân hàng nào?
+      2. Ngân hàng đó đã từng phát hành DLC cho hàng Russian origin chưa?
+      3. Compliance đã review:  
+        - Producer: RUSAL
+        - Origin: Russia chưa?
+
+      4. Có yêu cầu xác nhận (confirmed LC) không? -- Confirmed LC (Confirmed Letter of Credit) là một LC được ngân hàng thứ hai đứng ra bảo lãnh thanh toán bổ sung, ngoài cam kết của ngân hàng phát hành LC.
+      5. Có hạn chế beneficiary bank tại Nga không?
+
